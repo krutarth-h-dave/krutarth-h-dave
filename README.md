@@ -8,7 +8,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=krutarth-h-dave&theme=react&show_icons=true&count_private=true&hide=stars">
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=krutarth-h-dave&theme=react&show_icons=true&count_private=true&hide=stars,issues,contribs">
 </p>
 
 <p align="center">

@@ -16,3 +16,5 @@
   <a href="https://instagram.com/krutarth_dave" target="blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/instagram.svg" height="32" width="44" /></a>
   <a href="https://twitter.com/Krutarth_H_Dave" target="blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/twitter.svg" height="32" width="44" /></a>
 </p>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krutarth-h-dave/krutarth-h-dave)

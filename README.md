@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px"/></h1>
 <h3 align="center">I'm Krutarth. I work on everything Frontend.</h3>
 
 - 💻 Leading Frontend App development of **[Jupiter Edge](https://edge.jupiter.money/) - A Buy Now, Pay Later App**
